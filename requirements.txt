@@ -1,0 +1,15 @@
+# Core data science libraries
+pandas
+numpy
+scikit-learn
+
+# NLP libraries
+nltk
+spacy
+
+# Notebook environment
+jupyter
+notebook
+
+# Utilities
+python-dotenv
